@@ -8,7 +8,7 @@ A/B tests are very commonly performed by data analysts and data scientists. This
 - Perhaps run the experiment longer to make their decision.
 
 ## Data
-Two datasets that are included in this branch. 
+Two csv datasets that are included in this branch. 
 
 ### Languages, libraries, and software used for this project:
 Python

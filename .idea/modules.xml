@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Udacity---Analyze-A-B-Test-Results.iml" filepath="$PROJECT_DIR$/.idea/Udacity---Analyze-A-B-Test-Results.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Analyze-A-B-Test-Results.iml" filepath="$PROJECT_DIR$/.idea/Analyze-A-B-Test-Results.iml" />
     </modules>
   </component>
 </project>

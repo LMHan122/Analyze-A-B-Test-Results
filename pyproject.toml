@@ -1,0 +1,22 @@
+[project]
+name = "analyze-a-b-test-results"
+version = "0.1.0"
+description = "A project to analyze A/B test results for an e-commerce company."
+authors = [
+    {name = "Leslie Hanson",email = "lesliemhanson@gmail.com"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "notebook (==7.2.2)",
+    "pandas (==2.2.2)",
+    "numpy (==1.26.4)",
+    "matplotlib (==3.10.0)",
+    "statsmodels (==0.14.2)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
